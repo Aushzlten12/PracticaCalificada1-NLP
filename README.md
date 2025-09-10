@@ -10,8 +10,11 @@
 3. Riesgos de normalización agresiva.
 4. Estrategias para code-switching.
 5. Caso donde normalización degrade un modelo.
+
   **Métricas**: Tamaño de vocabulario, OOV, ejemplos cualitativos.
+  
   **Entregables**:
-  - Notebook: Código, resultados, teoría. Commit: "Pipeline de preprocesamiento PC1".
-  - Video: Muestra pipelines, resultados.
-  - Exposición: Presenta resultados, riesgos, compara pipelines.
+    
+    - Notebook: Código, resultados, teoría. Commit: "Pipeline de preprocesamiento PC1".
+    - Video: Muestra pipelines, resultados.
+    - Exposición: Presenta resultados, riesgos, compara pipelines.

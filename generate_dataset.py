@@ -39,7 +39,7 @@ def generar_oracion(categoria):
     return plantilla.format(tema=tema, verbo=verbo, adjetivo=adjetivo, adjetivo_complementario=adjetivo_complementario)
 
 # Generar dataset
-n_oraciones = 10000
+n_oraciones = 5000
 categorias = ['Positivo', 'Negativo', 'Neutral']
 proporciones = [0.4, 0.3, 0.3]  # Distribución aproximada
 oraciones = []
