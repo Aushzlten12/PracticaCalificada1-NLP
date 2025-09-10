@@ -1,5 +1,4 @@
 # --- Carpetas del proyecto que NO queremos versionar ---
-data/
 out/
 .devcontainer/
 
