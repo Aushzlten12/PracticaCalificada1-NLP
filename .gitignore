@@ -1,0 +1,59 @@
+# --- Carpetas del proyecto que NO queremos versionar ---
+data/
+out/
+.devcontainer/
+
+# --- Archivos de Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.spec
+
+# --- Virtualenv / entornos ---
+.env
+.venv
+env/
+venv/
+ENV/
+*.env
+
+# --- Archivos de Jupyter ---
+.ipynb_checkpoints/
+profile_default/
+*.ipynb_convert
+
+# --- Salidas temporales ---
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# --- Archivos de configuración local ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Docker ---
+*.pid
+*.tar
+*.bak
+.dockerignore
+
+# --- Archivos de sistema ---
+Thumbs.db
+desktop.ini
+
+# --- Resultados de modelos / cache ML ---
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.pkl
+__results__/
